@@ -739,10 +739,10 @@ export default function App() {
                 </a>
                 <a 
                   href="https://social-impact-lab-sil.github.io/Dashboard-Home/"
-		  target="_blank" 
+		              target="_blank" 
                   rel="noopener noreferrer"  
                   onClick={() => setIsDropdownOpen(false)}
-                  style={{ color: '#24292e', padding: '10px 16px', textDecoration: 'none', display: 'block', fontSize: '14px' }}
+                  style={{ color: '#24292e', padding: '10px 16px', textDecoration: 'none', display: 'block', fontSize: '14px', borderBottom: '1px solid #eaecef'  }}
                 >
                   📊 Dashboard Home
                 </a>
