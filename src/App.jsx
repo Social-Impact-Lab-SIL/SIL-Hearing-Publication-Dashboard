@@ -738,11 +738,11 @@ export default function App() {
                   🏠 Data Repository
                 </a>
                 <a 
-                  href="./" 
+                  href="https://social-impact-lab-sil.github.io/Dashboard-Home/" 
                   onClick={() => setIsDropdownOpen(false)}
                   style={{ color: '#24292e', padding: '10px 16px', textDecoration: 'none', display: 'block', fontSize: '14px' }}
                 >
-                  📊 Lab Dashboard
+                  📊 Dashboard Home
                 </a>
               </div>
             )}
